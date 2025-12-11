@@ -1,0 +1,17 @@
+# Memex Streamlit Theme
+
+[server]
+enableStaticServing = true
+
+[theme]
+# Primary brand color
+primaryColor = "#4ba9fe"
+
+# Dark background for body
+backgroundColor = "#1a1d2e"
+
+# Secondary background - slightly lighter for cards/containers
+secondaryBackgroundColor = "#242838"
+
+# Text color - light gray for readability on dark background
+textColor = "#d4d4d8"
