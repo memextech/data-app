@@ -3,8 +3,8 @@
 [server]
 enableStaticServing = true
 
-[server]
-enableStaticServing = true
+[client]
+toolbarMode = "viewer"
 
 # Users can toggle between themes via:
 # - Settings menu (⚙️ → Theme)
