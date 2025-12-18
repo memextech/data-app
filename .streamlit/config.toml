@@ -1,7 +1,10 @@
 # Memex Streamlit Theme
 
 [server]
-enableStaticServing = true
+enableStaticServing = false
+
+[browser]
+gatherUsageStats = false
 
 [client]
 toolbarMode = "viewer"
