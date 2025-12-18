@@ -1,7 +1,7 @@
 # Memex Streamlit Theme
 
 [server]
-enableStaticServing = false
+enableStaticServing = true
 
 [browser]
 gatherUsageStats = false
