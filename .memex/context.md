@@ -63,4 +63,5 @@ For production environments with private sheets or sensitive data:
 4. Use environment variables for sheet IDs and credentials
 
 
-Your app will be available at: `https://[username]--[app-name]-run.modal.run`
+# Streamlit API Notes
+- `use_container_width` is deprecated and will be removed in a future release. For `use_container_width=True`, use `width="stretch"`. For `use_container_width=False`, use `width="content"`.
